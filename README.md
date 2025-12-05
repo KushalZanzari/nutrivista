@@ -113,7 +113,7 @@ We welcome contributions from the community! Please fork the repository and subm
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details. 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KushalZanzari/nutrivista?tab=MIT-1-ov-file) file for more details. 
 
 ---
 
