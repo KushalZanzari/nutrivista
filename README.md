@@ -2,7 +2,7 @@
 
 ## Where Health-Conscious Dining Meets Convenience and Flavor 🌱🍽️🔥
 
-### 🌟 Mission
+### 🌟 Mission 
 Our mission is simple yet powerful: to provide a positive and health-oriented food service that caters to the diverse needs of our users. At the heart of our platform lies an *innovative AI-powered interactive agent*, designed to understand and respond to users' queries with precision. 
 
 This intelligent system enables a seamless and personalized ordering experience, considering *nutritional criteria, **cuisine preferences, and **dietary restrictions. We collaborate with restaurants, bakeries, and food vendors to curate menus that blend **health-conscious options* with *delicious flavors*. 
